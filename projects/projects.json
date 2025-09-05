@@ -1,0 +1,63 @@
+[
+  
+  {
+    "name": "KhelaHobe Gaming App",
+    "desc": "A gamified social-impact Flutter app that combines personality exercises, real-world volunteering prompts, team chat, referrals, and a points-and-rewards system to drive positive action in local communities.",
+    "image": "khelahobe",
+    "category": "Flutter",
+    "links": {
+      "view": "Not Available",
+      "Code": "https://github.com/kaziikram678/KhelaHobe_Gaming_App"
+    }
+  },
+  {
+    "name": "InternLagbe App",
+    "desc": "InternLagbe is a mobile app built with Flutter using Dart language that helps Bangladeshi students and fresh graduates find top internship opportunities listed on LinkedIn.",
+    "image": "internlagbe",
+    "category": "Flutter",
+    "links": {
+      "view": "Not Available",
+      "code": "https://github.com/kaziikram678/InternLagbe-App"
+    }
+  },
+  {
+    "name": "FlightReview App",
+    "desc": "This Flutter app allows users to share their flight experiences by uploading images, selecting flight details (airports, airline, class), writing feedback, choosing a travel date, and giving a star rating.",
+    "image": "flightreview",
+    "category": "mern",
+    "links": {
+      "view": "Not Available",
+      "code": "https://github.com/kaziikram678/FlightReview-App"
+    }
+  },
+  {
+    "name": "Medical Appointment API",
+    "desc": "A FastAPI + SQLite based RESTful API for managing patients and their appointments. Built with FastAPI, SQLAlchemy ORM, and Pydantic, and deployed on a free cloud platform Railway.",
+    "image": "appointment",
+    "category": "FastAPI, SQLite, RESTful API, Railway",
+    "links": {
+      "view": "https://appointment-management-api-production.up.railway.app/docs",
+      "code": "https://github.com/kaziikram678/Appointment-Management-API"
+    }
+  },
+  {
+    "name": "Online Auction Platform",
+    "desc": "The Online Auction Platform is a Django-based application designed to enable users to list, bid on, and manage auction items. ",
+    "image": "Onlineauction",
+    "category": "lamp",
+    "links": {
+      "view": "Not Available",
+      "code": "https://github.com/mahabub96/EdgeFinal_OnlineAuctionPatform"
+    }
+  },
+  {
+    "name": "Dementia Prediction",
+    "desc": "This repository contains a machine learning project aimed at predicting dementia using a dataset of patient information.",
+    "image": "dementia",
+    "category": "Machine Learning",
+    "links": {
+      "view": "Not Available",
+      "code": "https://github.com/kaziikram678/Dementia-Prediction"
+    }
+  }
+]
